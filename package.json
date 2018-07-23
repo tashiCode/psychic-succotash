@@ -2,7 +2,7 @@
   "name": "psychic-succotash",
   "version": "1.0.0",
   "description": "smartDesk",
-  "main": "main.js",
+  "main": "js/main.js",
   "scripts": {
     "start": "electron ."
   },
